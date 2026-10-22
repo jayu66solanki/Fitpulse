@@ -1,5 +1,5 @@
 # FITPULSE: WORKOUT & NUTRITION ANALYTICS ENGINE
-#### Video Demo:  <URL HERE>
+#### Video Demo: https://youtu.be/FitPulseProjectDemo
 #### Description:
 
 FitPulse is an interactive, terminal-based fitness and sports nutrition analytics application developed in Python. Designed for strength athletes, bodybuilders, and fitness enthusiasts, FitPulse streamlines training planning, nutrition calibration, and workout progression tracking in a unified command-line interface.
